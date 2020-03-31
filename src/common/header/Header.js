@@ -145,6 +145,7 @@ class Header extends  Component {
                 </div>
             </header>
 
+            
 
             <Modal  ariaHideApp={false} isOpen={this.state.modalIsOpen} contentLabel="Login"
             onRequestClose={this.closeModalHandler} style={customStyles}>
