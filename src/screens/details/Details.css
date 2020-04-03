@@ -87,3 +87,7 @@
     }
   } 
    
+
+  .back {
+      cursor: pointer;
+  }
